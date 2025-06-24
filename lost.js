@@ -811,4 +811,3 @@
       return c
     })()("data-framer-appear-id", "__Appear_Animation_Transform__", false)
   
-
